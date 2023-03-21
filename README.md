@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi👋🏻, I'm Leonardo Virgillito 💫:
 I am Data Analyst/Web Analyst with a passion for Science, Data and Programming👨‍💻 <br>Shoot me an Email or add me on Linkedin😉 <br>
 
 
