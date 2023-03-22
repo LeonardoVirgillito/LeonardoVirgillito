@@ -3,7 +3,7 @@ I am Data Analyst/Web Analyst with a passion for Data, Technology and Programmin
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/www.linkedin.com/in/alfio-leonardo-virgillito-8b3096250) <a href="mailto:alfiovirgillito7@gmail.com" target="_blank">
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/linkedin.com/in/www.linkedin.com/in/alfio-leonardo-virgillito-8b3096250](https://www.linkedin.com/in/alfio-leonardo-virgillito)) <a href="mailto:alfiovirgillito7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Leonardo01)
