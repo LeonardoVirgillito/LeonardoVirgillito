@@ -1,5 +1,7 @@
 # 💫 Hi👋🏻, I'm Alfio Leonardo Virgillito 💫
-I am Data Analyst/Web Analyst with a passion for Data, Programming and Technology👨‍💻 <br>Take a look at my works, and if interested<br> <br>Shoot me an Email or add me on Linkedin😉 <br>
+I am Data Analyst/Web Analyst with a passion for Data, Programming and Technology👨‍💻 
+<br>Take a look at my works, and if interested<br> 
+<br>Shoot me an Email or add me on Linkedin😉<br>
 
 
 ## 🌐 Socials:
